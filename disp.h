@@ -1,6 +1,6 @@
 /**
 * @file     disp.h
-* @authors  Courtney Bracefield and Adam Ross
+* @authors  Courtney Bracefield (and/or tutor(s)), and Adam Ross
 * @date     12 Oct 2016
 * @brief    Header file for disp.c of the interactive memory game between microcontrollers - displaying of chars
 */
