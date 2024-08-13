@@ -5,7 +5,7 @@ Simple embedded-C program for an interactive, multi-tiered memory game between U
 ![UCFK4](https://github.com/user-attachments/assets/891caa5e-3126-492a-ac69-fc1763096c8d)
 
 My first project implementing C, embedded microcontrollers, and basically in fulfilling user-specified requirements 
-(with exception to underlying project specifications, and already completing a software engineering project course* in exchange studies abroad, 
+(with exception to underlying project specifications, and already completing a software engineering project course in exchange studies abroad, 
 although oddly not recognised somehow by the University of Canterbury regardless of already being transfered to my studies there, 
 and not to mention with a group rather than left alone) to a "Simon Say's" theme.
 
